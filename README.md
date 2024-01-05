@@ -38,16 +38,21 @@ Para executar este projeto em sua máquina local, você precisará configurar um
 
 ## Funcionalidades:
    **CRUD Completo**: Realize operações de criação, leitura, atualização e exclusão de produtos.
+   
    **Imagens Associadas**: Adicione imagens aos produtos para uma representação visual completa.
+   
    **Interface Responsiva**: O design é otimizado para ser acessível em vários dispositivos.
    
 ## Como utilizar:
    Acesse a aplicação através do seu navegador, navegando para http://localhost/nunessports.
+   
    Explore as diferentes funcionalidades do sistema, incluindo a adição, edição, exclusão e visualização de produtos.
+   
    Certifique-se de testar a funcionalidade de adição de imagens associadas aos produtos.
 
 ## Observações:
    Imagens de Exemplo: Para testar a funcionalidade de imagens, utilize as imagens fornecidas no diretório upload ou adicione suas próprias imagens.
+   
    Espero que este sistema atenda às suas expectativas e proporciona uma compreensão abrangente das habilidades desenvolvidas para este projeto. Em caso de dúvidas ou      sugestões, não hesite em entrar em contato.
    
    ![image](https://github.com/Rafael-FerreiraM/Desafio-Programa-Best-Minds-2024-/assets/101290871/0bab4cc6-411a-4151-8b4d-9d60fa339d90)
