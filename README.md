@@ -28,6 +28,7 @@ Para executar este projeto em sua máquina local, você precisará configurar um
 ## Tecnologias Utilzadas:
    **PHP**: Linguagem de programação server-side para manipulação de dados e interação com o banco de dados.
    **MySQL**: Sistema de gerenciamento de banco de dados relacional utilizado para armazenar informações sobre produtos.
+   <br>
    **Bootstrap**: Framework de design front-end para uma experiência de usuário responsiva e atraente.
    **JavaScript e jQuery:** Utilizados para melhorar a interatividade da interface do usuário e aprimorar a experiência geral.
 
