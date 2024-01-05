@@ -2,7 +2,11 @@
 
 ## Descrição do Projeto
 
-Bem-vindo ao sistema de gestão de produtos da Nunes Sports! Este projeto foi desenvolvido como parte de um processo seletivo e consiste em um CRUD (Create, Read, Update, Delete) para uma empresa fictícia de venda de produtos esportivos chamada Nunes Sports. O sistema é baseado em uma aplicação web que utiliza PHP, MySQL, Bootstrap, JavaScript e jQuery para fornecer uma experiência interativa e amigável.
+Bem-vindo ao sistema de gestão de produtos da Nunes Sports! 
+
+Este projeto foi desenvolvido como parte de um processo seletivo e consiste em um CRUD (Create, Read, Update, Delete) para uma empresa fictícia de venda de produtos esportivos chamada Nunes Sports. 
+
+O sistema é baseado em uma aplicação web que utiliza PHP, MySQL, Bootstrap, JavaScript e jQuery para fornecer uma experiência interativa e amigável.
 
 ## Requisitos do Sistema
 Para executar este projeto em sua máquina local, você precisará configurar um ambiente com os seguintes componentes:
@@ -53,7 +57,9 @@ Para executar este projeto em sua máquina local, você precisará configurar um
 ## Observações:
    Imagens de Exemplo: Para testar a funcionalidade de imagens, utilize as imagens fornecidas no diretório upload ou adicione suas próprias imagens.
    
-   Espero que este sistema atenda às suas expectativas e proporciona uma compreensão abrangente das habilidades desenvolvidas para este projeto. Em caso de dúvidas ou      sugestões, não hesite em entrar em contato.
+   Espero que este sistema atenda às suas expectativas e proporciona uma compreensão abrangente das habilidades desenvolvidas para este projeto. 
+   
+   Em caso de dúvidas ou sugestões, não hesite em entrar em contato.
    
    ![image](https://github.com/Rafael-FerreiraM/Desafio-Programa-Best-Minds-2024-/assets/101290871/0bab4cc6-411a-4151-8b4d-9d60fa339d90)
 
